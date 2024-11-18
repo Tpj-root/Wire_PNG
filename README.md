@@ -150,8 +150,8 @@ python3 sample_2.py
 | Number | Color             | Output                                              |
 |--------|-------------------|-----------------------------------------------------|
 | 1      | slateblue         | <img src="sample_colors_2/wire_slateblue.png" width="80" height="40"> <p>slateblue</p> |
-| 2      | mediumslateblue   | <img src="sample_colors_2/wire_wire_mediumslateblue.png" width="80" height="40"> <p>mediumslateblue</p> |
-| 3      | darkslateblue     | <img src="sample_colors_2/wire_wire_darkslateblue.png" width="80" height="40"> <p>darkslateblue</p> |
+| 2      | mediumslateblue   | <img src="sample_colors_2/wire_mediumslateblue.png" width="80" height="40"> <p>mediumslateblue</p> |
+| 3      | darkslateblue     | <img src="sample_colors_2/wire_darkslateblue.png" width="80" height="40"> <p>darkslateblue</p> |
 | 4      | teal              | <img src="sample_colors_2/wire_teal.png" width="80" height="40"> <p>teal</p> |
 | 5      | aqua              | <img src="sample_colors_2/wire_aqua.png" width="80" height="40"> <p>aqua</p> |
 | 6      | darkcyan          | <img src="sample_colors_2/wire_darkcyan.png" width="80" height="40"> <p>darkcyan</p> |
