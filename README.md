@@ -202,16 +202,9 @@ python3 sample_2.py
 | 51     | sienna            | <img src="sample_colors_2/wire_sienna.png" width="80" height="40"> <p>sienna</p> |
 | 52     | maroon            | <img src="sample_colors_2/wire_maroon.png" width="80" height="40"> <p>maroon</p> |
 | 53     | darkslategray     | <img src="sample_colors_2/wire_darkslategray.png" width="80" height="40"> <p>darkslategray</p> |
-| 54     | dimgray           | <img src="sample_colors_2/wire_dimgray.png" width="80" height="40"> <p>dimgray</p> |
-| 55     | lightgray         | <img src="sample_colors_2/wire_lightgray.png" width="80" height="40"> <p>lightgray</p> |
-| 56     | whitesmoke        | <img src="sample_colors_2/wire_whitesmoke.png" width="80" height="40"> <p>whitesmoke</p> |
-| 57     | chocolate         | <img src="sample_colors_2/wire_chocolate.png" width="80" height="40"> <p>chocolate</p> |
-| 58     | saddlebrown       | <img src="sample_colors_2/wire_saddlebrown.png" width="80" height="40"> <p>saddlebrown</p> |
-| 59     | salmon            | <img src="sample_colors_2/wire_salmon.png" width="80" height="40"> <p>salmon</p> |
-| 60     | indianred         | <img src="sample_colors_2/wire_indianred.png" width="80" height="40"> <p>indianred</p> |
-| 61     | tomato            | <img src="sample_colors_2/wire_tomato.png" width="80" height="40"> <p>tomato</p> |
-| 62     | rosybrown         | <img src="sample_colors_2/wire_rosybrown.png" width="80" height="40"> <p>rosybrown</p> |
-| 63     | palevioletred     | <img src="sample_colors_2/wire_palevioletred.png" width="80" height="40"> <p>palevioletred</p> |
+| 54     | whitesmoke        | <img src="sample_colors_2/wire_whitesmoke.png" width="80" height="40"> <p>whitesmoke</p> |
+| 55     | rosybrown         | <img src="sample_colors_2/wire_rosybrown.png" width="80" height="40"> <p>rosybrown</p> |
+| 56     | palevioletred     | <img src="sample_colors_2/wire_palevioletred.png" width="80" height="40"> <p>palevioletred</p> |
 
 
 
