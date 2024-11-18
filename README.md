@@ -51,8 +51,8 @@ Creates a png file for 80x40 size looks like a wire
 
 | Number | Color | Output  |
 | --- |  --- | --- |
-| 1 |  navy | <img src="color_png/wire_navy.png" width="20" height="20"> <p>navy</p> |
-| 2 |  red black | <img src="color_png/wire_navy.png" width="40" height="20"> <p>red_black</p> |
+| 1 |  navy | <img src="color_png/wire_navy.png" width="80" height="40"> <p>navy</p> |
+| 2 |  red black | <img src="color_png/wire_navy.png" width="80" height="40"> <p>red_black</p> |
 
 
 **create_image**
