@@ -1,13 +1,19 @@
+import os
 from PIL import Image, ImageDraw
 
 def createwire(*args):
+    # Create the folder if it doesn't exist
+    folder_path = "color_png"
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+
     # If one color is provided, fill the entire image with that color
     if len(args) == 1:
         img = Image.new('RGB', (80, 40))
         draw = ImageDraw.Draw(img)
         draw.rectangle([0, 0, 80, 40], fill=args[0])  # Fill the entire image
         filename = f"wire_{args[0]}.png"  # Filename based on the color
-        img.save(filename)
+        img.save(os.path.join(folder_path, filename))  # Save to the folder
     
     # If two colors are provided, split the image horizontally (top and bottom)
     elif len(args) == 2:
@@ -22,21 +28,25 @@ def createwire(*args):
         
         # Create the filename based on the two colors
         filename = f"wire_{args[0]}_{args[1]}.png"
-        img.save(filename)
+        img.save(os.path.join(folder_path, filename))  # Save to the folder
     
     else:
         print("Invalid input. Please provide one or two colors.")
 
 
-
 def create_image(*args):
+    # Create the folder if it doesn't exist
+    folder_path = "color_png"
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+
     # Validate input
     if len(args) == 1:
         img = Image.new('RGB', (20, 20))
         draw = ImageDraw.Draw(img)
         draw.rectangle([0, 0, 20, 20], fill=args[0])  # Draw one block
         filename = f"square_{args[0]}.png"  # Filename based on the color
-        img.save(filename)
+        img.save(os.path.join(folder_path, filename))  # Save to the folder
     
     elif len(args) == 2:
         img = Image.new('RGB', (40, 20))
@@ -50,14 +60,15 @@ def create_image(*args):
         
         # Create the filename based on the two colors
         filename = f"square_{args[0]}_{args[1]}.png"
-        img.save(filename)
+        img.save(os.path.join(folder_path, filename))  # Save to the folder
     
     else:
         print("Invalid input. Please provide one or two colors.")
 
 if __name__ == "__main__":
     # Example usage
-    createwire('navy')         # Creates a red.png file
-    createwire('red', 'black') # Creates a red_black.png file
-    create_image('navy')         # Creates a red.png file
-    create_image('red', 'black') # Creates a red_black.png file
+    createwire('navy')         # Creates navy.png inside the color_png folder
+    createwire('red', 'black') # Creates red_black.png inside the color_png folder
+    create_image('navy')       # Creates navy.png inside the color_png folder
+    create_image('red', 'black') # Creates red_black.png inside the color_png folder
+

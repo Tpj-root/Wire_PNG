@@ -49,13 +49,21 @@ Step 4: Edit your code
 Creates a png file for 80x40 size looks like a wire
 
 
-
+| Number | Color | Output  |
+| --- |  --- | --- |
+| 1 |  navy | <img src="color_png/wire_navy.png" width="20" height="20"> <p>navy</p> |
+| 2 |  red black | <img src="color_png/wire_navy.png" width="40" height="20"> <p>red_black</p> |
 
 
 **create_image**
 
 Creates a png file for 20x20 size looks like a square
 
+
+| Number | Color | Output  |
+| --- |  --- | --- |
+| 1 |  navy | <img src="color_png/square_navy.png" width="20" height="20"> <p>navy</p> |
+| 2 |  red black | <img src="color_png/square_red_black.png" width="40" height="20"> <p>red_black</p> |
 
 
 
