@@ -227,7 +227,7 @@ python3 main.py
 
 
 | Font_Size | Size             | Output        |Size  | Output   |
-|--------|-------------------|-----------------------------------------------------|
+|--------|-------|--------|-------|--------|
 | 10    | 200x200  | <img src="Key_Icon_Maker/10.png"> |100x100  | <img src="Key_Icon_Maker/10.png"> |
 | 20    | 200x200  | <img src="Key_Icon_Maker/20.png"> |110x110  | <img src="Key_Icon_Maker/20.png"> |
 | 30    | 200x200  | <img src="Key_Icon_Maker/30.png"> |120x120  | <img src="Key_Icon_Maker/30.png"> |
