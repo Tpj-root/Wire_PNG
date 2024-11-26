@@ -216,3 +216,27 @@ Step 5: Run the Code
 python3 main.py
 ```
 
+
+
+
+
+**Source code**
+
+
+[Source_Code_Key_Icon_Maker](Key_Icon_Maker/Key_Icon_Maker.py)
+
+
+| Font_Size | Size             | Output                                              |
+|--------|-------------------|-----------------------------------------------------|
+| 10      | 200x200         | <img src="Key_Icon_Maker/10.png"> |
+| 20      | 200x200         | <img src="Key_Icon_Maker/20.png"> |
+| 30      | 200x200         | <img src="Key_Icon_Maker/30.png"> |
+| 40      | 200x200         | <img src="Key_Icon_Maker/40.png"> |
+| 50      | 200x200         | <img src="Key_Icon_Maker/50.png"> |
+| 60      | 200x200         | <img src="Key_Icon_Maker/60.png"> |
+| 70      | 200x200         | <img src="Key_Icon_Maker/70.png"> |
+| 80      | 200x200         | <img src="Key_Icon_Maker/80.png"> |
+| 90      | 200x200         | <img src="Key_Icon_Maker/90.png"> |
+| 100      | 200x200         | <img src="Key_Icon_Maker/100.png"> |
+
+
