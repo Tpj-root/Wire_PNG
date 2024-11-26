@@ -228,14 +228,15 @@ python3 main.py
 
 | Font_Size | Size             | Output        |Size  | Output   |
 |--------|-------|--------|-------|--------|
-| 10    | 200x200  | <img src="Key_Icon_Maker/10.png"> |100x100  | <img src="Key_Icon_Maker/10.png"> |
-| 20    | 200x200  | <img src="Key_Icon_Maker/20.png"> |110x110  | <img src="Key_Icon_Maker/20.png"> |
-| 30    | 200x200  | <img src="Key_Icon_Maker/30.png"> |120x120  | <img src="Key_Icon_Maker/30.png"> |
-| 40    | 200x200  | <img src="Key_Icon_Maker/40.png"> |130x130  | <img src="Key_Icon_Maker/40.png"> |
-| 50    | 200x200  | <img src="Key_Icon_Maker/50.png"> |140x140  | <img src="Key_Icon_Maker/50.png"> |
-| 60    | 200x200  | <img src="Key_Icon_Maker/60.png"> |150x150  | <img src="Key_Icon_Maker/60.png"> |
-| 70    | 200x200  | <img src="Key_Icon_Maker/70.png"> |160x160  | <img src="Key_Icon_Maker/70.png"> |
-| 80    | 200x200  | <img src="Key_Icon_Maker/80.png"> |170x170  | <img src="Key_Icon_Maker/80.png"> |
-| 90    | 200x200  | <img src="Key_Icon_Maker/90.png"> |180x180  | <img src="Key_Icon_Maker/90.png"> |
-| 100    | 200x200  | <img src="Key_Icon_Maker/100.png"> | 190x190  | <img src="Key_Icon_Maker/100.png"> |
-| 100    | 200x200  | <img src="Key_Icon_Maker/100.png"> |200x200 | <img src="Key_Icon_Maker/100.png">  |
+| 10    | 200x200  | <img src="Key_Icon_Maker/10.png"> |100x100  | <img src="Key_Icon_Maker/Size_10.png"> |
+| 20    | 200x200  | <img src="Key_Icon_Maker/20.png"> |110x110  | <img src="Key_Icon_Maker/Size_20.png"> |
+| 30    | 200x200  | <img src="Key_Icon_Maker/30.png"> |120x120  | <img src="Key_Icon_Maker/Size_30.png"> |
+| 40    | 200x200  | <img src="Key_Icon_Maker/40.png"> |130x130  | <img src="Key_Icon_Maker/Size_40.png"> |
+| 50    | 200x200  | <img src="Key_Icon_Maker/50.png"> |140x140  | <img src="Key_Icon_Maker/Size_50.png"> |
+| 60    | 200x200  | <img src="Key_Icon_Maker/60.png"> |150x150  | <img src="Key_Icon_Maker/Size_60.png"> |
+| 70    | 200x200  | <img src="Key_Icon_Maker/70.png"> |160x160  | <img src="Key_Icon_Maker/Size_70.png"> |
+| 80    | 200x200  | <img src="Key_Icon_Maker/80.png"> |170x170  | <img src="Key_Icon_Maker/Size_80.png"> |
+| 90    | 200x200  | <img src="Key_Icon_Maker/90.png"> |180x180  | <img src="Key_Icon_Maker/Size_90.png"> |
+| 100    | 200x200  | <img src="Key_Icon_Maker/100.png"> | 190x190  | <img src="Key_Icon_Maker/Size_100.png"> |
+| 100    | 200x200  | <img src="Key_Icon_Maker/100.png"> |200x200 | <img src="Key_Icon_Maker/Size_200.png">  |
+
