@@ -240,3 +240,21 @@ python3 main.py
 | 100    | 200x200  | <img src="Key_Icon_Maker/100.png"> | 190x190  | <img src="Key_Icon_Maker/Size_100.png"> |
 | 100    | 200x200  | <img src="Key_Icon_Maker/100.png"> |200x200 | <img src="Key_Icon_Maker/Size_200.png">  |
 
+
+
+
+
+**Icon into Gif**
+
+<img src="Key_Icon_Maker/10_100.gif">
+
+
+
+
+
+
+
+
+
+
+
